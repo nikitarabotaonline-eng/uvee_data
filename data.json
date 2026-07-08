@@ -6,6 +6,13 @@
       "store_name": "DemoStore",
       "phone": "+79000000001",
       "blocked": false
+    },
+    {
+      "id": "seller_79000000001",
+      "email": "+79000000001@uvee.ru",
+      "store_name": "Магазин",
+      "phone": "+79000000001",
+      "blocked": false
     }
   ],
   "products": [
