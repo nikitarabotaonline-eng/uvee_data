@@ -85,11 +85,27 @@
       "description": "234",
       "price": 234,
       "old_price": null,
-      "stock": 1,
+      "stock": 0,
       "category": "other",
       "status": "active",
       "image_url": null
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "id": "ord_1783547288370",
+      "buyer": "гость",
+      "total": 468,
+      "items": [
+        {
+          "id": "p1783547269338",
+          "name": "234",
+          "price": 234,
+          "qty": 2
+        }
+      ],
+      "status": "paid",
+      "date": "2026-07-08T21:48:08.370Z"
+    }
+  ]
 }
