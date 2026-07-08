@@ -70,6 +70,18 @@
       "stock": 30,
       "category": "electronics",
       "status": "active"
+    },
+    {
+      "id": "p1783547238826",
+      "seller_id": "seller_79000000001",
+      "name": "555",
+      "description": "555",
+      "price": 555,
+      "old_price": null,
+      "stock": 1,
+      "category": "other",
+      "status": "active",
+      "image_url": null
     }
   ],
   "orders": [
