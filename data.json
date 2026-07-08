@@ -13,6 +13,13 @@
       "store_name": "Магазин",
       "phone": "+79000000001",
       "blocked": false
+    },
+    {
+      "id": "seller_89234848284",
+      "email": "89234848284@uvee.ru",
+      "store_name": "Магазин",
+      "phone": "89234848284",
+      "blocked": false
     }
   ],
   "products": [
