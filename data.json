@@ -1,111 +1,14 @@
 {
   "sellers": [
     {
-      "id": "seller_1",
-      "email": "demo@uvee.ru",
-      "store_name": "DemoStore",
-      "phone": "+79000000001",
-      "blocked": false
-    },
-    {
       "id": "seller_79000000001",
       "email": "+79000000001@uvee.ru",
       "store_name": "Магазин",
       "phone": "+79000000001",
       "blocked": false
-    },
-    {
-      "id": "seller_89234848284",
-      "email": "89234848284@uvee.ru",
-      "store_name": "Магазин",
-      "phone": "89234848284",
-      "blocked": false
     }
   ],
-  "products": [
-    {
-      "id": "p1",
-      "seller_id": "seller_1",
-      "name": "Беспроводные наушники Pro",
-      "description": "Шумоподавление 30ч",
-      "price": 1290,
-      "old_price": 2500,
-      "stock": 15,
-      "category": "electronics",
-      "status": "active"
-    },
-    {
-      "id": "p2",
-      "seller_id": "seller_1",
-      "name": "Умная колонка Mini",
-      "description": "Голосовой помощник",
-      "price": 890,
-      "old_price": 1800,
-      "stock": 8,
-      "category": "electronics",
-      "status": "active"
-    },
-    {
-      "id": "p3",
-      "seller_id": "seller_1",
-      "name": "Рюкзак городской",
-      "description": "Водонепроницаемый",
-      "price": 1790,
-      "old_price": 3200,
-      "stock": 20,
-      "category": "clothing",
-      "status": "active"
-    },
-    {
-      "id": "p4",
-      "seller_id": "seller_1",
-      "name": "Чехол для телефона",
-      "description": "Противоударный",
-      "price": 290,
-      "old_price": 600,
-      "stock": 50,
-      "category": "electronics",
-      "status": "active"
-    },
-    {
-      "id": "p5",
-      "seller_id": "seller_1",
-      "name": "Беспроводная зарядка",
-      "description": "Быстрая 15W",
-      "price": 650,
-      "old_price": 1200,
-      "stock": 30,
-      "category": "electronics",
-      "status": "active"
-    },
-    {
-      "id": "p1783547269338",
-      "seller_id": "seller_89234848284",
-      "name": "234",
-      "description": "234",
-      "price": 234,
-      "old_price": null,
-      "stock": 0,
-      "category": "other",
-      "status": "active",
-      "image_url": null
-    }
-  ],
-  "orders": [
-    {
-      "id": "ord_1783547288370",
-      "buyer": "гость",
-      "total": 468,
-      "items": [
-        {
-          "id": "p1783547269338",
-          "name": "234",
-          "price": 234,
-          "qty": 2
-        }
-      ],
-      "status": "paid",
-      "date": "2026-07-08T21:48:08.370Z"
-    }
-  ]
+  "products": [],
+  "orders": [],
+  "reviews": {}
 }
