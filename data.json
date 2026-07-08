@@ -77,6 +77,18 @@
       "stock": 30,
       "category": "electronics",
       "status": "active"
+    },
+    {
+      "id": "p1783547269338",
+      "seller_id": "seller_89234848284",
+      "name": "234",
+      "description": "234",
+      "price": 234,
+      "old_price": null,
+      "stock": 1,
+      "category": "other",
+      "status": "active",
+      "image_url": null
     }
   ],
   "orders": []
