@@ -34,7 +34,7 @@
       "description": "Голосовой помощник",
       "price": 890,
       "old_price": 1800,
-      "stock": 7,
+      "stock": 8,
       "category": "electronics",
       "status": "active"
     },
@@ -70,35 +70,7 @@
       "stock": 30,
       "category": "electronics",
       "status": "active"
-    },
-    {
-      "id": "p1783547238826",
-      "seller_id": "seller_79000000001",
-      "name": "555",
-      "description": "555",
-      "price": 555,
-      "old_price": null,
-      "stock": 1,
-      "category": "other",
-      "status": "active",
-      "image_url": null
     }
   ],
-  "orders": [
-    {
-      "id": "ord_1783547195163",
-      "buyer": "гость",
-      "total": 890,
-      "items": [
-        {
-          "id": "p2",
-          "name": "Умная колонка Mini",
-          "price": 890,
-          "qty": 1
-        }
-      ],
-      "status": "paid",
-      "date": "2026-07-08T21:46:35.163Z"
-    }
-  ]
+  "orders": []
 }
