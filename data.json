@@ -1,19 +1,6 @@
 {
   "products": [
     {
-      "id": "p2",
-      "seller_email": "steksnec@icloud.com",
-      "name": "Умная колонка Mini",
-      "description": "Голосовой помощник",
-      "price": 890,
-      "old_price": 1800,
-      "stock": 8,
-      "category": "electronics",
-      "status": "active",
-      "image_url": null,
-      "approved": true
-    },
-    {
       "id": "p3",
       "seller_email": "steksnec@icloud.com",
       "name": "Рюкзак городской",
