@@ -1,19 +1,6 @@
 {
   "products": [
     {
-      "id": "p1",
-      "seller_email": "steksnec@icloud.com",
-      "name": "Беспроводные наушники Pro",
-      "description": "Шумоподавление 30ч • Bluetooth 5.3",
-      "price": 1290,
-      "old_price": 2500,
-      "stock": 14,
-      "category": "electronics",
-      "status": "active",
-      "image_url": null,
-      "approved": true
-    },
-    {
       "id": "p2",
       "seller_email": "steksnec@icloud.com",
       "name": "Умная колонка Mini",
