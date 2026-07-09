@@ -42,7 +42,7 @@
   ],
   "orders": [
     {
-      "id": "ord_1783618754020",
+      "id": "ord_1783618907002",
       "buyer_email": "steksnec@icloud.com",
       "buyer_phone": "+70000000000",
       "total": 1290,
@@ -55,7 +55,7 @@
         }
       ],
       "status": "pending",
-      "date": "2026-07-09T17:39:14.020Z",
+      "date": "2026-07-09T17:41:47.002Z",
       "tracking": "",
       "logistics": "pending",
       "address": "г. Великий Новгород, ул. Кочетова, д. 1",
