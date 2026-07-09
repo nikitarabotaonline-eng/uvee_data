@@ -1,19 +1,5 @@
 {
-  "products": [
-    {
-      "id": "p3",
-      "seller_email": "steksnec@icloud.com",
-      "name": "Рюкзак городской",
-      "description": "Водонепроницаемый 25л",
-      "price": 1790,
-      "old_price": 3200,
-      "stock": 20,
-      "category": "clothing",
-      "status": "active",
-      "image_url": null,
-      "approved": true
-    }
-  ],
+  "products": [],
   "orders": [
     {
       "id": "ord_1783618907002",
