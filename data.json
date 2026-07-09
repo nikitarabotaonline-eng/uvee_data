@@ -1,14 +1,16 @@
 {
-  "sellers": [
-    {
-      "id": "seller_79000000001",
-      "email": "+79000000001@uvee.ru",
-      "store_name": "Магазин",
-      "phone": "+79000000001",
-      "blocked": false
-    }
+  "products": [
+    {"id":"p1","seller_email":"steksnec@icloud.com","name":"Беспроводные наушники Pro","description":"Шумоподавление 30ч • Bluetooth 5.3","price":1290,"old_price":2500,"stock":15,"category":"electronics","status":"active","image_url":null,"approved":true},
+    {"id":"p2","seller_email":"steksnec@icloud.com","name":"Умная колонка Mini","description":"Голосовой помощник","price":890,"old_price":1800,"stock":8,"category":"electronics","status":"active","image_url":null,"approved":true},
+    {"id":"p3","seller_email":"steksnec@icloud.com","name":"Рюкзак городской","description":"Водонепроницаемый 25л","price":1790,"old_price":3200,"stock":20,"category":"clothing","status":"active","image_url":null,"approved":true}
   ],
-  "products": [],
   "orders": [],
-  "reviews": {}
+  "reviews": {},
+  "supplies": [],
+  "warehouse": [],
+  "chats": [],
+  "sellers": [
+    {"email":"steksnec@icloud.com","password":"109866Guvee","name":"Администратор","role":"admin","phone":"+70000000000","store_name":"Uvee Admin","blocked":false,"approved":true,"createdAt":"2025-07-09T00:00:00.000Z"}
+  ],
+  "buyers": []
 }
