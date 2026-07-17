@@ -48,5 +48,17 @@
       "createdAt": "2025-07-09T00:00:00.000Z"
     }
   ],
-  "buyers": []
+  "buyers": [
+    {
+      "email": "jyjydjd",
+      "password": "djjdj",
+      "name": "djdjd",
+      "phone": "899999999",
+      "role": "buyer",
+      "store_name": "djdjd",
+      "blocked": false,
+      "approved": true,
+      "createdAt": "2026-07-17T12:51:23.661Z"
+    }
+  ]
 }
