@@ -1,5 +1,19 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "p1784293197741",
+      "seller_email": "steksnec@icloud.com",
+      "name": "Деревянный человечек IKEA",
+      "description": "",
+      "price": 280,
+      "old_price": null,
+      "stock": 0,
+      "category": "other",
+      "status": "active",
+      "image_url": "https://www.avito.ru/velikiy_novgorod/mebel_i_interer/derevyannyy_chelovechek_ikea_8213093909?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6InM1QWlQTHZIeU5XbzNSU1EiO329GNYeJgAAAA",
+      "approved": true
+    }
+  ],
   "orders": [
     {
       "id": "ord_1783618907002",
@@ -16,6 +30,27 @@
       ],
       "status": "pending",
       "date": "2026-07-09T17:41:47.002Z",
+      "tracking": "",
+      "logistics": "pending",
+      "address": "г. Великий Новгород, ул. Кочетова, д. 1",
+      "coords": null,
+      "delivery_method": "pickup"
+    },
+    {
+      "id": "ord_1784303670716",
+      "buyer_email": "steksnec@icloud.com",
+      "buyer_phone": "+70000000000",
+      "total": 280,
+      "items": [
+        {
+          "id": "p1784293197741",
+          "name": "Деревянный человечек IKEA",
+          "price": 280,
+          "qty": 1
+        }
+      ],
+      "status": "pending",
+      "date": "2026-07-17T15:54:30.716Z",
       "tracking": "",
       "logistics": "pending",
       "address": "г. Великий Новгород, ул. Кочетова, д. 1",
