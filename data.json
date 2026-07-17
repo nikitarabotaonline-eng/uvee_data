@@ -1,5 +1,19 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "p1784293104573",
+      "seller_email": "steksnec@icloud.com",
+      "name": "Деревянный человечек IKEA",
+      "description": "",
+      "price": 279,
+      "old_price": null,
+      "stock": 1,
+      "category": "other",
+      "status": "pending",
+      "image_url": "https://www.avito.ru/velikiy_novgorod/mebel_i_interer/derevyannyy_chelovechek_ikea_8213093909?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6InM1QWlQTHZIeU5XbzNSU1EiO329GNYeJgAAAA",
+      "approved": false
+    }
+  ],
   "orders": [
     {
       "id": "ord_1783618907002",
