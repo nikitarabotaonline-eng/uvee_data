@@ -85,7 +85,7 @@
       "role": "seller",
       "store_name": "siuhiush",
       "blocked": false,
-      "approved": false,
+      "approved": true,
       "createdAt": "2026-07-19T21:19:33.376Z"
     }
   ],
