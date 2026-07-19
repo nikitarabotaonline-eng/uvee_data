@@ -1,5 +1,22 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "p1784496404046",
+      "seller_email": "steksnec@icloud.com",
+      "name": "35",
+      "description": "",
+      "price": 234,
+      "old_price": null,
+      "stock": 1,
+      "category": "electronics",
+      "subcategory": "Смартфоны",
+      "tags": [],
+      "specs": {},
+      "images": [],
+      "status": "active",
+      "approved": true
+    }
+  ],
   "orders": [
     {
       "id": "ord_1783618907002",
@@ -85,7 +102,7 @@
       "role": "seller",
       "store_name": "siuhiush",
       "blocked": false,
-      "approved": true,
+      "approved": false,
       "createdAt": "2026-07-19T21:19:33.376Z"
     }
   ],
