@@ -51,17 +51,11 @@
       "seller_email": "steksnec@icloud.com",
       "product_id": "p1784293197741",
       "qty": 1,
-      "status": "approved",
+      "status": "requested",
       "date": "2026-07-17T13:43:57.074Z"
     }
   ],
-  "warehouse": [
-    {
-      "product_id": "p1784293197741",
-      "seller_email": "steksnec@icloud.com",
-      "qty": 1
-    }
-  ],
+  "warehouse": [],
   "chats": [
     {
       "user_email": "steksnec@icloud.com",
@@ -82,6 +76,17 @@
       "blocked": false,
       "approved": true,
       "createdAt": "2025-07-09T00:00:00.000Z"
+    },
+    {
+      "email": "siuhiush",
+      "password": "9018084091",
+      "name": "siuhiush",
+      "phone": "892348482841",
+      "role": "seller",
+      "store_name": "siuhiush",
+      "blocked": false,
+      "approved": false,
+      "createdAt": "2026-07-19T21:19:33.376Z"
     }
   ],
   "buyers": [
