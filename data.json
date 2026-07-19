@@ -51,11 +51,17 @@
       "seller_email": "steksnec@icloud.com",
       "product_id": "p1784293197741",
       "qty": 1,
-      "status": "requested",
+      "status": "approved",
       "date": "2026-07-17T13:43:57.074Z"
     }
   ],
-  "warehouse": [],
+  "warehouse": [
+    {
+      "product_id": "p1784293197741",
+      "seller_email": "steksnec@icloud.com",
+      "qty": 1
+    }
+  ],
   "chats": [
     {
       "user_email": "steksnec@icloud.com",
